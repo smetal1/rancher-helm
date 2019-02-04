@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   chat-cluster:
   - apiVersion: v1
-    appVersion: latest
-    created: 2019-02-05T00:06:25.879852+05:30
+    appVersion: 0.1.0
+    created: 2019-02-05T00:12:43.558353+05:30
     description: An Enterprise grade chat platform
-    digest: 5b49e6f771cd6672c3c5d7d493a8a145f64a0a922c1844d977844bb328e372c8
+    digest: af84345affd2beffc70723c9f23c9179229635e561b7d3dd9518d619c1ae0fff
     icon: https://icons-for-free.com/free-icons/png/512/1891020.png
     keywords:
     - chatting
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://github.com/smetal1/rancher-helm/chat-cluster-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-05T00:06:25.879001+05:30
+generated: 2019-02-05T00:12:43.557783+05:30
