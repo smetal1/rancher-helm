@@ -1,9 +1,24 @@
 apiVersion: v1
 entries:
   chat-cluster:
+  - appVersion: v0.1.0
+    created: 2019-02-05T00:21:35.097513+05:30
+    description: An Enterprise grade chat platform
+    digest: 4f7f891ef41aba7e290b1a6dab350d88fa8eaaa0a5d23d923cd7b2a2e67cb026
+    icon: https://icons-for-free.com/free-icons/png/512/1891020.png
+    keywords:
+    - chatting
+    - ertc
+    maintainers:
+    - email: admin@ertc.com
+      name: hmmm
+    name: chat-cluster
+    urls:
+    - https://github.com/smetal1/rancher-helm/chat-cluster-1.tgz
+    version: "1"
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-02-05T00:12:43.558353+05:30
+    created: 2019-02-05T00:21:35.097104+05:30
     description: An Enterprise grade chat platform
     digest: af84345affd2beffc70723c9f23c9179229635e561b7d3dd9518d619c1ae0fff
     icon: https://icons-for-free.com/free-icons/png/512/1891020.png
@@ -14,4 +29,4 @@ entries:
     urls:
     - https://github.com/smetal1/rancher-helm/chat-cluster-0.1.0.tgz
     version: 0.1.0
-generated: 2019-02-05T00:12:43.557783+05:30
+generated: 2019-02-05T00:21:35.096521+05:30
