@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  chat-cluster:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-02-04T23:34:39.286392+05:30
+    description: A Helm chart for Kubernetes
+    digest: 036c5b9f3b83b68edbe969323ddff8669aa9344a8200d8df60d70333736ab812
+    name: chat-cluster
+    urls:
+    - https://github.com/smetal1/rancher-helm/chat-cluster-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-02-04T23:34:39.285829+05:30
